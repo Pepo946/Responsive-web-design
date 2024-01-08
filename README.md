@@ -1,7 +1,6 @@
 ## Overview
 
 - [Overview](The Project "Responsive web design")
-  - [Screenshot](./imgs/Screenshot 2024-01-08 113307.png)
   - [Links](https://github.com/Pepo946/Responsive-web-design.git)
 - [My process](#my-process)
   - [Built with](Html Css js  jquery )
@@ -10,10 +9,6 @@
   - [Useful resources](https://getbootstrap.com/docs/5.3/examples/)
 - [Author => Pepo]
 
-### Screenshot
-
-![Design Preview](./imgs/Screenshot 2024-01-08 113307.png)
-![Design Preview](./imgs/Screenshot 2024-01-08 113336.png)
 
 ### Built with
 
